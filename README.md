@@ -1,7 +1,7 @@
 # Restaurant Database
 
-## My first ever SQL project! 🤩
-A MySQL database for managing orders, sales, and employees for a small fast food restaurant🍔
+- My first ever SQL project! 🤩
+- A MySQL database for managing orders, sales, and employees for a small fast food restaurant🍔
 
 ## Tables 
 
